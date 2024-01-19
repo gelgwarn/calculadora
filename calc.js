@@ -1,7 +1,7 @@
-window.alert(`Olá!!!  Seja bem vindo. `) //escreve o conteudo salvo na variável nome.
+window.alert(`Olá!!!  Seja bem vindo.`) //escreve o conteudo salvo na variável nome.
 window.alert("Qual operação deseja fazer? ")
 var operação = window.prompt()
-window.confirm(`Sua escolha foi: ${operação}`) //escreve o conteudo salvo na variável nome. Tb mostra quantas letras tem o nome guardado na $nome.
+window.confirm(`Sua escolha foi: ${operação}`) //escreve o conteudo salvo na variável nome. 
 //declarando as funções que a calculadora irá fazer. 
 function somar(valor1, valor2){
   return valor1 + valor2; //No retorno da função é bom por o que ela faz. 

@@ -1,0 +1,25 @@
+
+body    {
+    background-color: rgb(105, 105, 173);
+    color: rgb(194, 185, 174);
+    font: normal 20 arial;
+}
+p {
+    font: normal 14 futura;
+    color:aquamarine;
+}
+.document {
+    font: normal 15 helvetica;
+    color: moccasin;
+}
+br {
+    color:bisque;
+}
+.hr {
+    font: italic 15 arial;
+    color:rgb(206, 93, 93);
+}
+.doc{
+    font: normal 18 helvetica;
+    color:aqua
+}
